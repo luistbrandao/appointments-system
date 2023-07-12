@@ -1,0 +1,1 @@
+This project aims to create a commitment management system. A user interested in some service will enter the platform and select a consultation with the hairdresser, for example.
